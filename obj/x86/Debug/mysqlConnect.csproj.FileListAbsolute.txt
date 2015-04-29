@@ -1,0 +1,12 @@
+C:\Users\anggel\Desktop\p3_baseDeDatos-master\mysqlConnect\obj\x86\Debug\mysqlConnect.csprojResolveAssemblyReference.cache
+C:\Users\anggel\Desktop\p3_baseDeDatos-master\mysqlConnect\bin\Debug\mysqlConnect.exe.config
+C:\Users\anggel\Desktop\p3_baseDeDatos-master\mysqlConnect\bin\Debug\mysqlConnect.exe
+C:\Users\anggel\Desktop\p3_baseDeDatos-master\mysqlConnect\bin\Debug\mysqlConnect.pdb
+C:\Users\anggel\Desktop\p3_baseDeDatos-master\mysqlConnect\obj\x86\Debug\mysqlConnect.exe
+C:\Users\anggel\Desktop\p3_baseDeDatos-master\mysqlConnect\obj\x86\Debug\mysqlConnect.pdb
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\p3_baseDeDatos-master\mysqlConnect\bin\Debug\mysqlConnect.exe.config
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\p3_baseDeDatos-master\mysqlConnect\bin\Debug\mysqlConnect.exe
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\p3_baseDeDatos-master\mysqlConnect\bin\Debug\mysqlConnect.pdb
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\p3_baseDeDatos-master\mysqlConnect\obj\x86\Debug\mysqlConnect.csprojResolveAssemblyReference.cache
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\p3_baseDeDatos-master\mysqlConnect\obj\x86\Debug\mysqlConnect.exe
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\p3_baseDeDatos-master\mysqlConnect\obj\x86\Debug\mysqlConnect.pdb
